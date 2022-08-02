@@ -1,0 +1,299 @@
+* {
+    margin-left: 12px;
+}
+html{
+
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+body
+  {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+h1 {
+    color: rgb(53, 173, 17);    
+    font-size: 74px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;                                                                 
+    text-shadow: 1px 1px 3px black ;
+    margin-bottom: 1px;
+    margin-left: 30px;
+}
+.ricardo {
+    height: 200px;
+    display: flex;
+    position: relative;
+    margin-left: 245px;
+    top: 53px;
+    animation-name: Ricardo;
+    animation-duration: 1.2s;
+    animation-timing-function: cubic-bezier(.1,-.6,.2,0);
+}
+@-webkit-keyframes Ricardo {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+} 
+@-o-keyframes Ricardo {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+} 
+@-moz-keyframes Ricardo {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+} 
+@keyframes Ricardo {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+.Line1 {
+    height: 100px;
+    text-align: center;
+    margin-bottom: 1px;
+}
+.chel5 {
+    text-align: center;
+    height: 100px;
+}
+.Line2 {
+    text-align: center;
+    height: 100px;
+    display: block;
+    margin-top: 225px;
+}
+.info1 {
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    margin-right: 850px;
+    margin-left: 64px;
+    top: 120px;
+}
+
+.Pie {
+    width: 470px;
+    display: flex;
+    margin-left: 700px; 
+    position: relative;
+    bottom: 120px;
+}
+.Line3 {
+    display: block;
+    text-align: center;
+    margin-bottom: 123px;
+}
+.forest {
+    width: 470px;
+    display: flex;
+    margin-left: 64px; 
+    position: relative;
+    bottom: 20px;
+}
+.info2 {
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    margin-right: 250px;
+    margin-left: 700px;
+    bottom: 280px;
+}
+.Line4 {
+    display: block;
+    text-align: center;
+    margin-bottom: 100px;
+}
+h2 {
+    color: rgb(0, 0, 0);    
+    font-size: 64px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;                                                                 
+    text-shadow: 1px 1px 3px black ;
+}
+.george {
+    width: 360px;
+    display: flex;
+    margin-left: 164px; 
+    position: relative;
+    top: 90px;
+}
+.nameg {
+    font-size: 46px;
+    color: #85542B;
+    text-shadow: 1px 1px 3px black ;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    left: 720px;
+    bottom: 240px;
+}
+.infog {
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    margin-left: 700px;
+    margin-right: 150px;
+    bottom: 218px;
+}
+.namek {
+    font-size: 46px;
+    color: #DA7324;
+    text-shadow: 1px 1px 3px black ;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    margin-left: 124px;
+    margin-right: 800px;
+}
+.infok {
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    top: 42px;
+    margin-left: 124px;
+    margin-right: 800px;
+}
+.kirill {
+    width: 360px;
+    display: flex;
+    margin-left: 740px; 
+    position: relative;
+    bottom: 270px;
+}
+.vova {
+    width: 390px;
+    display: flex;
+    position: relative;
+    margin-left: 110px;
+    bottom: 60px;
+}
+.namev {
+    font-size: 46px;
+    color: #CD0909;
+    text-shadow: 1px 1px 3px black ;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    margin-left: 700px;
+    margin-right: 120px;
+    bottom: 420px;
+}
+.infov {
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    margin-left: 700px;
+    margin-right: 150px;
+    bottom: 418px;
+}
+#rectangle {
+    position: relative;
+    display: flex;
+    width: 1100px;
+    height: 2px;
+    background:rgb(0, 0, 0);
+    bottom: 100px;
+    margin-left: 125px;
+}
+.nets {
+    font-size: 34px;
+    font-weight: 600;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    margin-left: 90px;
+}
+.vk {
+    height: 70px;
+    display: flex;
+    position: relative;
+    top: 24px;
+    margin-left: 75px;
+}
+.linkvk {
+    font-size: 26px;
+    display: flex;
+    position: relative;
+    margin-left: 170px;
+    bottom: 24px;
+    text-decoration: none;
+    transition: 0.15s linear;
+}
+.linkvk:hover {
+    color: rgb(211, 12, 12); 
+}
+.more1 {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    margin-left: 75px;
+    top: 120px;
+}
+.more2 {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    margin-left: 1080px;
+    top: 240px;
+}
+.more3 {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    margin-left: 1080px;
+    top: 230px;
+}
+.vostr {
+    height: 70px;
+    display: flex;
+    position: relative;
+    margin-left: 70px;
+}
+.stroi {
+    height: 70px;
+    display: flex;
+    position: relative;
+    margin-left: 55px;
+}
+.It {
+    height: 70px;
+    display: flex;
+    position: relative;
+    margin-left: 55px;
+}
+.moreinfo {
+    color: black;
+    font-size: 30px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: 0.15s linear;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    position: relative;
+    margin-left: 634px;
+    bottom: 172px;
+}
+.moreinfo:hover {
+    color: rgb(211, 12, 12); 
+}
+.moon {
+    width: 59px;
+}
+button {
+    margin-left: 80px;
+}
+.sun {
+    width: 59px;
+}

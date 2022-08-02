@@ -1,0 +1,29 @@
+h1 {
+    font-size: 30px;
+    font-weight: normal ;
+    font-family: 'Play', sans-serif;
+    color: rgb(16, 3, 3);
+    margin-left: 45px;
+    margin-right: 120px;
+}
+span {
+    color: rgb(226, 46, 43);
+    font-weight: bold;
+}
+li {
+    list-style-type: none; 
+    font-size: 24px;
+    font-weight: 540;
+   }
+li:before {
+    color: rgb(239, 13, 13); 
+    content: "✦";
+}
+a {
+    display: flex;
+    position: relative;
+    font-size: 65px;
+    margin-left: 1290px;
+    bottom: 670px;
+    text-decoration: none;
+}
